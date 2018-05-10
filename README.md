@@ -1,8 +1,3 @@
 # hello_flutter
 
-Hello Flutter
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+A basic flutter project to say hello
